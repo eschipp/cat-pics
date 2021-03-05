@@ -13,6 +13,7 @@ html {
 h1 {
 	font-size: 3rem;
 	color: #e2dbdb;
+	background-color: rgba(0, 0, 0, .5);
 }
 
 hr {
